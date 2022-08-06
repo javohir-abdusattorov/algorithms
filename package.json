@@ -1,0 +1,17 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "build": "node_modules/.bin/tsc"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Javohir Abdusattorov",
+    "email": "javohirabdusattorov2005@gmail.com"
+  },
+  "license": "ISC"
+}
